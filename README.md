@@ -2,22 +2,13 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/Soukaina-fadal-ellah"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
+  <img src="profile.jpg" align="right" width="25%" />
   
-   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-<!--
-**soukainafadal/soukainafadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h3> I'm a fresh graduate who is passionate about using technology to digitilize businesses. Some technologies I enjoy working with include python, Java, Power Bi and Unity.</h3>
+   
 
-Here are some ideas to get you started:
+<br><br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 I’m currently looking for an entry level job as a Data analyst <br>
 🌱 I’m currently learning Power BI for data visualization <br>
 📫 How to reach me: Soukainafadalellah@gmail.com
