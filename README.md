@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Hi, I'm Soukaina 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/Soukaina-fadal-ellah"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <!--
 **soukainafadal/soukainafadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently looking for an entry level job as a Data analyst <br>
+🌱 I’m currently learning Power BI for data visualization <br>
+📫 How to reach me: Soukainafadalellah@gmail.com
