@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/Soukaina-fadal-ellah"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   <img src="profile.jpg" align="right" width="40%" />
-  
+  <br>
  <h3> I'm a fresh graduate who is passionate about using technology to digitilize businesses. Some technologies I enjoy working with include python, Java, Power Bi and Unity.</h3>
    
 
